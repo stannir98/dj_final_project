@@ -55,5 +55,15 @@ mac_dept_freq <- count(mac_dept_unique$dept_codes)
 mac_dept_freq
 ```
 
+Text Analysis
+
+```{r}
+library()
+mac_purpose <- mac_data %>%
+  mutate(purpose=tolower(purpose)) %>%
+  filter(!is.na(purpose))
+
+purposes <- Corpus(Vector(mac_data$purpose))
+```
 plz work 
 
