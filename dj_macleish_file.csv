@@ -1,0 +1,361 @@
+visit_date,num_fac,num_stude,non_scomm,lead,build,class,purpose,comments,vehicles
+5/4/13,1,8,0,Denise McKahn,No,EGR 388,designing solar fence,,1
+9/3/12,0,20,0,House Pres,Yes,,House Retreat,,3
+9/14/12,20,10,20,Reid,Yes,,Building Opening,,15
+9/29/12,0,15,0,House Pres,Yes,,House Retreat,,2
+9/30/12,1,10,0,L. David Smith,No,,Field Trip,,1
+10/11/12,3,4,15,Reid,Yes,,Old Growth Lecture,,6
+10/13/12,3,1,15,Reid,Yes,,NESEA Open House,,10
+10/16/12,1,0,2,Reid,Yes,,Tour of Building,,2
+10/24/12,2,0,4,Charlie Conant,Yes,,Close Out Meeting,,4
+11/6/12,2,10,0,Reid,Yes,,Mt. Holyoke Class Visit,,2
+2/14/13,4,0,0,Mary Harrington,Yes,,NCS Writing Retreat,,3
+3/13/13,1,0,5,Reid,Yes,,Williams College Tour,,3
+3/14/13,4,0,0,Mary Harrington,Yes,,NCS Writing Retreat,,3
+3/29/13,2,8,0,Nancy Cohen,Yes,ENG,Class Field Trip,,1
+4/5/13,2,25,1,Justin Camy,Yes,JUD,Env. Ed.,,4
+4/7/13,2,0,22,Nancy (neighbor),Yes,,Whately Land Preservation Trust,,12
+4/14/13,1,11,0,Annaliese Beery,Yes,PSY 326,We held a mock grant review panel,It was great!,1
+4/19/13,0,0,22,Conway School,No,,Vernal Pool Studies,OC,3
+4/19/13,2,2,3,Bruce Coldham,Yes,,Photo Shoot,,3
+4/19/13,1,0,8,Reid,Yes,,"Admissions, Spring Preview",,2
+4/20/13,0,1,9,Reid,Yes,,Franklin County Smith Club,,5
+4/24/13,2,0,2,Jesse Bellemare,No,,Kestrel Baseline Report,,3
+4/25/13,1,1,0,Rhodes,No,,Research,,1
+4/26/13,0,0,2,Bruce Coldham,Yes,,Photo Shoot,,2
+4/26/13,0,4,0,Camp Leader,No,,Camping,,1
+4/28/13,1,0,14,Paul Wetzel,Yes,,American Chestnut Regional Meeting,,7
+4/30/13,1,1,0,Rhodes,No,,Research,,1
+5/4/13,9,4,7,Andrew Guswa,Yes,,CEEDS Alumnae Advisory Board meeting,,4
+5/6/13,12,0,0,Drew,Yes,,Engineering Retreat,,4
+5/9/13,0,6,0,Paula Noonan,Yes,,Bio Grads Writing Retreat,,2
+5/14/13,1,0,1,Reid,Yes,,Tour of Building,,2
+5/16/13,0,6,0,Paula Noonan,Yes,,Bio Grads Writing Retreat,,2
+5/18/13,0,0,20,Blanche Derby,Yes,,Edible Plants Walk,,4
+6/3/13,0,2,0,A. Rhodes,No,,Research,,1
+6/4/13,1,2,0,Rhodes,No,,Research,,1
+6/5/13,1,1,0,Reid,Yes,,Parking Lot and Bridge,Planting and step making with Emmett Wald,1
+6/5/13,2,1,7,Jesse Bellemare,Yes,,Arcadia Board Meeting,,3
+6/5/13,2,0,6,Jesse Bellemare,Yes,,Acadia Board Meeting,,3
+6/12/13,0,3,0,Jenna Zukswert,Yes,,Research,,1
+6/12/13,1,0,2,Wetzel,Yes,,Check chestnut plots; then gave impromptu tour of building,,2
+6/13/13,0,0,3,Phil Merrit,Yes,,,Deer Fence and Composting Toilet,1
+6/13/13,0,0,12,David Boutt,Yes,,Biology Research Meeting,,4
+6/14/13,5,1,0,Heather McQueen,Yes,,Tour & Meeting,,4
+6/17/13,1,0,0,Paul Wetzel,No,,Research,,1
+6/17/13,1,1,1,Wetzel,No,,Trenching for Chestnut orchard irrigation system,,3
+6/17/13,1,1,1,Wetzel,No,,Install chestnut orchard irrigation,,3
+6/18/13,0,1,1,Wetzel,No,,Install chestnut orchard irrigation,,2
+6/19/13,1,6,0,Reid,Yes,,SURF Field Trip,,2
+6/19/13,0,1,1,Wetzel,No,,Install chestnut orchard irrigation,,2
+6/20/13,1,1,0,Rhodes,No,,Research,,1
+6/21/13,1,1,0,Wetzel,No,,Planted chestnuts,,1
+6/24/13,0,1,0,Greylin Nielsen,No,,data collection,,1
+6/24/13,0,2,0,Jenna Zukswert,No,,SURF Research,,1
+6/26/13,0,2,0,Jenna Zukswert,No,,SURF research,,1
+6/21/13,5,0,0,Marilyn Woodman,Yes,,Office Retreat,Tour by Reid,3
+6/25/13,0,3,0,Jesse Bellemare,No,,SURF research,,1
+6/27/13,0,3,0,Sophie D'Arcy,No,,Recreation,Biked up to Hike,0
+7/1/13,3,20,1,Julie and Candace,Yes,PCP,Tour,,3
+7/2/13,2,6,0,Bellemare,No,,research,Hemlock-salamander plots,2
+7/2/13,1,1,1,Wetzel,No,,Chestnut research,,2
+7/3/13,2,1,0,Wetzel,No,,Tower operations & annual inspection; Chestnut orchard care,,3
+7/3/13,3,16,1,Bob Merrit,Yes,PCP,Tour and Field Work,"Tour by Reid, James, and Jesse",3
+7/8/13,1,3,0,Bellemare,No,,research,,1
+7/9/13,1,1,1,Wetzel,Yes,,Chestnut research data collection,,1
+7/12/13,1,4,0,Michelle Jackson/Jesse Bellemare ,No,,,Installing Mellon Mays Undergraduate Fellowship Project,2
+7/4/13,2,2,0,Jenna Zukswert,No,,Research (SURF),,3
+7/16/13,1,0,22,Reid,Yes,,To see the building,PVTA-style bus (none of the students were Smith students),2
+7/15/13,2,10,10,Reid,Yes,,Tour and Camping,"Smith BG crew assisted with planting and trails, Wellesley group camped.",3
+7/13/13,1,0,7,Drew,Yes,,Camping,,2
+7/17/13,2,0,5,Charlie Conant,Yes,,Review of Building Function,,3
+7/22/13,0,2,0,Jenna Zukswert,No,,SURF research,,1
+7/28/13,0,3,0,Julia Papps,No,,"Exploration, introducing Smith Adas to MacLeish",,1
+7/30/13,7,1,16,Reid,Yes,,CR Signing,,6
+8/5/13,0,3,0,Michelle Jackson/Jesse Bellemare,No,,,August Survey of MMUF Project/Collecting Leaf-Litter,1
+8/13/13,1,0,4,Reid,Yes,,Building Tour,,2
+8/14/13,4,1,2,Reid,Yes,,Development Office Trip,Different departure times necessitated multiple cars,3
+8/25/13,1,7,0,Corynn Stoltenberg,Yes,,Cabinet Retreat,"It was the perfect place for us to come together in an intentional, reflective way. I was the only one of us who had been before, so it was a real treat & got everyone excited to come back!THANK YOU!!",3
+8/21/13,25,0,0,Paul Wetzel,Yes,,Admissions Retreat,,6
+8/27/13,40,0,0,Reid,Yes,, Retreat for faculty/staff,,12
+6/13/13,0,0,14,David Boutt,Yes,,UMass Hydrogeology Research Group Meeting,,3
+7/17/13,1,0,3,Wetzel,No,,Chestnut research data collection,,1
+8/30/13,1,0,0,Wetzel,No,,Drop keys off for visiting scholor,,1
+9/13/13,0,5,0,Emmett Wald,Yes,,Field Station Friday,,1
+9/6/13,1,5,0,Emmett Wald,Yes,,Field Station Friday,,1
+9/18/13,3,5,0,Julie Busa,Yes,ENV 202,Study land use history,I'm counting Paul Wetzel and also Chris Vriezen in my faculty count,2
+9/14/13,2,22,0,Bellemare,Yes,"BIO 364, MTH 220",identify student research projects,,2
+9/18/13,3,12,0,Bellemare,Yes,BIO 155,fungi survey,,3
+9/19/13,2,14,0,"Wopereis, Bellemare",Yes,BIO 155,fungi survey,,2
+9/20/13,0,1,1,Michelle Jackson/Jesse Bellemare,No,,Survey of MMUF project plot ,,1
+9/13/13,0,4,0,Michelle Jackson,No,,Helping Michelle with project,None,1
+9/26/13,10,60,0,Reid,Yes,, Mountain Day,,20
+9/29/13,2,0,40,Reid,Yes,,Kestrel Event,,25
+10/2/13,4,4,15,Drew,Yes,,K-6 teachers,,11
+10/3/13,1,2,0,Reid,Yes,,Tour of BEC and Vicinity,,1
+9/24/13,2,15,0,Jim Middlebrook & Fraser Stables,Yes,ARS 173,chose sites for student art projects,Some students will be revisiting the site on their own the following week.,2
+10/8/13,2,14,0,Fraser Stables and Jim Middlebrook,Yes,ARS 173,Critiques of site specific art projects,,2
+10/9/13,2,12,0,J. Bellemare,No,BIO 155,tree survey,,2
+10/10/13,1,17,0,J. Bellemare,No,BIO 365,Survey of long-term forest plot,,2
+10/3/13,1,18,0,J. Bellemare,Yes,BIO 365,independent student projects work day,,2
+10/2/13,2,13,0,J. Bellemare,Yes,BIO 155,Survey of salamander plots,,2
+10/11/13,1,4,1,J. Bellemare,No,BIO 400,Survey of ecological research projects,,2
+10/10/13,5,0,0,Kathy Hall,Yes,,strategic planning session,Fabulous space! We're so grateful to be able to enjoy this wonderful resource. Thank you!!,2
+10/10/13,1,15,0,Judith Wopereis & Jesse Bellemare,No,BIO 155,"Forest floor survey, hemlock vs. birch",Great day. Saw many salamanders.,2
+9/19/13,2,15,1,Judith Wopereis & Jesse Bellemare,Yes,BIO 155,Mycoblitz: fungi survey.,"Collected mushrooms, used building to start identification of mushrooms. Great building!",2
+10/23/13,1,0,9,Wetzel,Yes,OC,Tour from HCC Conservation Bio class,,2
+10/26/13,1,6,17,Reid,Yes,,Parent Weekend,,2
+10/25/13,3,3,2,Reid,Yes,,Field Station Friday,,3
+10/17/13,3,16,0,Reid,Yes,EGR 100,Class Field Trip,,4
+10/7/13,1,0,12,Reid,Yes,OC,Tour of BEC and Vicinity,,6
+10/11/13,1,0,35,Reid,Yes,,NESEA Pro Tour,,15
+10/12/13,0,0,10,Dan Ladd,No,,Art Tour,,5
+10/26/13,0,0,6,Dan Ladd,No,,Art Tour,,3
+9/20/13,0,5,0,Emmett Wald,Yes,,Field Station Friday,,1
+9/27/13,0,3,0,Emmett Wald,Yes,,Field Station Friday,,1
+10/4/13,0,5,0,Emmett Wald,Yes,,Field Station Friday,,1
+10/18/13,0,7,0,Emmett Wald,Yes,,Field Station Friday,,1
+10/25/13,0,3,0,Emmett Wald,Yes,,Field Station Friday,,1
+9/25/13,0,1,1,Emmett Wald,Yes,,tour for an alum,,1
+9/26/13,0,5,0,Emmett Wald,Yes,,Mountain Day,,1
+10/2/13,0,2,0,Emmett Wald,Yes,,meeting w/ elementary school teachers,,1
+10/25/13,0,3,2,Emmett Wald,Yes,,"Field Station Friday, Family Weekend",this is a correction of my previous submission for this date,1
+11/1/13,1,0,0,Laura Kalba,No,,writing,,1
+11/12/13,1,0,9,Wetzel,Yes,OC,Tour of station for Mount Holyoke environ. sci. class,,1
+11/14/13,1,0,15,Reid,Yes,OC,Tour of BEC and Vicinity,,3
+11/14/13,2,18,0,John Brady,Yes,FYS 103,"To see the field station, to look at the rock timeline, and to look at the boulders.",Beautiful sunset.  Seismic jump recorded.,3
+11/23/13,0,3,0,Jen Rioux,Yes,,To take pictures of the building.,,1
+10/31/13,2,15,0,Reid,Yes,ENG 118,Tour of BEC and Vicinity,,2
+11/12/13,1,17,0,Amy Rhodes,Yes,GEO,Geology,,2
+11/1/13,0,5,0,Emmett Wald,Yes,,Field Station Friday,,1
+11/8/13,0,6,0,Emmett Wald,Yes,,Field Station Friday,Work in Orchard as well,1
+11/15/13,0,5,0,Emmett Wald,Yes,,Field Station Friday,,1
+11/22/13,0,5,0,Emmett Wald,Yes,,Field Station Friday,,1
+12/4/13,20,0,0,Campus School,Yes,,Campus School Faculty Meeting,,7
+1/3/14,2,0,0,Joanne Benkley,Yes,ENV,set up for class,,1
+1/4/14,1,0,0,Joanne Benkley,Yes,ENV,class set up,,1
+1/6/14,4,20,3,Joanne Benkley,Yes,ENV,workshop,5College Students and Faculty,5
+1/7/14,4,20,1,Joanne Benkley,Yes,ENV,internterm workshop,5College Students and Faculty,5
+1/8/14,6,20,7,Joanne Benkley,Yes,ENV,Workshop,5College Students and Faculty,13
+1/13/14,2,8,1,Reid,Yes,LSS,,,3
+1/14/14,3,8,0,Reid,Yes,LSS,,,3
+1/15/14,3,8,0,Reid,Yes,LSS,,,3
+1/16/14,3,8,0,Reid,Yes,LSS,,,2
+1/17/14,4,9,44,Reid,Yes,LSS,SCCS 6th Grade Visit,,4
+2/1/14,0,7,0,Melinda Pontes,Yes,,Cutter House Council Retreat,Thanks so much for letting us use the facility! It was really amazing and awesome to share/show some new people the area!,2
+2/1/14,0,4,0,Emmett Wald,Yes,,work (EJ) / studying (others),,1
+2/14/14,2,16,7,Reid,Yes,,Initial Maple tapping 2014,,5
+3/5/14,1,10,0,Judith W,No, BIO 371,Water Samples from vernal pool,,1
+4/22/14,1,9,0,Drew,Yes, EGR 315,,,1
+3/19/14,1,0,0,Judith W,No,,Collecting Samples,,1
+3/23/14,2,19,0,James Lowenthal,Yes,AST 113,dark sky observing ,cold!  but good.  Measured sky brightness for first time.,3
+3/25/14,2,17,0,Reid,Yes,ARS 285 ,Class Design Project ,,3
+3/26/14,1,0,1,Reid,Yes,,Sap and Interview,,1
+3/27/14,0,20,1,Jen Rioux,Yes,,Ice hockey team banquet,,5
+3/29/14,1,25,0,Reid,Yes,,tour of building & vicinity,,5
+3/25/14,1,0,0,Judith W,No,,Sample Collection,,1
+4/16/14,1,15,2,Reid,Yes,OC,Tour of Building,,9
+4/17/14,2,13,2,Ellena Baum and Emily Dixon ,Yes,,Open Mic ,Hopefully this will become an annual tradition. ,3
+4/17/14,1,25,0,Katrina O'Brien,No,,"Overnight trip: discussing leadership, practicing hands on skills",,3
+4/7/14,2,14,0,Reid,Yes,ENG 135,tour of building & vicinity,,2
+4/24/14,2,9,6,Reid,Yes,OC,tour of building & vicinity,,4
+4/16/14,1,0,10,B Outt,No,OC,Hydrogeology Field Lab,Visited wells in upper field,2
+3/8/14,0,6,0,Emmett Wald,Yes,,Field Station Saturday,,2
+4/5/14,0,1,6,Emmett Wald,Yes,OC,tour for Living Lab folks from Olin College of Engineering,,3
+4/12/14,3,3,5,Emmett Wald,Yes,,tour for potential donors & Kathy McCartney,,3
+4/16/14,1,1,0,Jesse Bellemare,No,,Get samples  for Vernal Pools Trip,,1
+4/24/14,1,10,0,Steve Tilley,No,BIO 155,To observe different organisms,,2
+4/25/14,1,15,0,Steve Tilley,No,BIO 155,To observe different organisms,,2
+4/15/14,0,2,0,Sarah Gaffney,Yes,BIO,Get samples  for Vernal Pools Trip,,1
+4/17/14,2,1,30,Sarah Gaffney,Yes,BIO,Vernal Pools Field Trip with Campus School,,1
+4/29/14,4,16,2,Reid,Yes,ARS 285 ,Final Review,,6
+5/10/14,1,0,14,Reid,Yes,OC,Visit the Building,,5
+5/12/14,13,1,4,Reid,Yes,,User's Group,,5
+5/13/14,15,0,15,Bruner/Cott Associates,Yes,,Design Team work session,very easy to use the spaces and felt they met every need. ,5
+5/14/14,4,1,13,Amy,Yes,,Jimmy Nolan Brook symposium,,12
+5/20/14,12,0,0,Jessica Bacal,Yes,,Faculty Development Workshop,We loved it!,4
+5/19/14,4,10,14,Christine Hatch,Yes,,Retreat,THANK YOU!!!,5
+5/28/14,6,0,0,Jennifer Walters,No,,retreat,Love the field station!,1
+5/16/14,9,0,0,Susan Voss,Yes,,Picker Engineering Program Retreat,Thank you for letting us use the MacLeish Field Station and Bechtel Environmental Classroom.,5
+5/1/14,11,0,0,Jon Caris,Yes,,Meeting,,2
+6/10/14,0,3,0,Jesse Bellemare,No,,SURF,,1
+6/17/14,0,5,0,Michelle Jackson/Claudia Deeg,No,,Surveying salamander plots ,,1
+6/2/14,6,0,0,Jennifer Walters,Yes,,CCC staff retreat,Thanks for your hospitality--and the gorgeous weather!,3
+6/17/14,5,0,0,Drew,Yes,,CEEDS Retreat,,4
+6/19/14,8,0,0,Donor Relations,Yes,,Retreat,,3
+6/25/14,7,0,0,David Gregory,No,,Team Meeting,Great Space- Thank you!,7
+7/2/14,1,5,0,Michelle Jackson/Jesse Bellemare,No,,Fieldwork/Ecological Surveys,,2
+7/8/14,30,2,0,Reid,Yes,,Tour of Building and Vicinity,,8
+7/10/14,1,9,1,Jen Rioux,Yes,,Work in the Orchard,,3
+7/7/14,2,18,0,Candice Salyers/Julie Busa,Yes,PCP,Field Station and Building Tour,,2
+7/10/14,2,18,1,Candice Salyers/Julie Busa,Yes,PCP,Foraging Walk/Lesson,,3
+7/14/14,2,18,0,Candice Salyers/Julie Busa,Yes,PCP,Creek walk,,2
+7/14/14,0,5,0,Jesse Bellemare,No,,Survey of salamander plots,,1
+7/18/14,2,21,0,Julie Busa,Yes,PCP,55 Gal. Drum DIY,,2
+7/21/14,0,6,0,Michelle Jackson/Jesse Bellemare,Yes,,,,1
+7/23/14,1,2,14,Reid,Yes,,Lab experience and tour,,3
+7/17/14,11,2,0,Sara Kirk,Yes,,Retreat and tour,,2
+8/12/14,12,1,1,Reid,Yes,,Challenge Course Training,one motorcycle - two bikes,8
+8/13/14,12,1,1,Reid,Yes,,Challenge Course Training,one motorcycle - two bikes,8
+8/14/14,12,1,1,Reid,Yes,,Challenge Course Training,one motorcycle - two bikes,8
+8/18/14,8,70,0,Hannah Durrant,Yes,,staff training,,6
+8/23/14,2,31,0,Hannah Durrant,Yes,,training,,4
+9/2/14,2,18,0,Hannah Durrant,Yes,,retreat,,5
+8/28/14,11,0,2,Marguerite Harrison,Yes,,department workshop,Our afternoon was most enjoyable and fruitful. The Bechtel space was perfect for our needs. Thank you!,5 (3 from outside Northampton)
+8/27/14,1,8,0,Tamra Batea,No,,SGA retreat,It was perfect for our work,2
+8/28/14,2,9,0,Fran Vandermeer,No,,Team building on low ropes,"Two coaches, 9 players.",3
+8/27/14,1,10,0,scott johnson,No,,orientation training/campsite prep/challenge course visit,,1
+8/30/14,1,28,0,scott johnson,No,,orientation camping,,4
+9/1/14,2,24,0,scott johnson,No,,challenge course,,4
+9/17/14,1,11,0,Katrina O'Brien,No,,challenge course usage,Orientation student leader debrief,3
+9/19/14,1,7,0,scott johnson,No,,camping,,1
+9/14/14,1,11,0,J. Bellemare,Yes,BIO 364,Tour and intro to independent projects ideas,,1
+9/26/14,1,11,0,Katrina O'Brien,No,ESS,challenge course usage,Another great day at the Field Station!,1
+9/13/14,0,2,0,Emmett Wald,Yes,,FSS,,1
+9/20/14,0,5,0,Emmett Wald,Yes,,camping,the stars were stunning!,1
+9/6/14,0,2,0,Emmett Wald,No,,FSS & chestnut planting,,1
+10/5/14,1,9,0,J. Bellemare,No,BIO,field research,,2
+10/2/14,1,10,0,J. Bellemare,Yes,BIO 364,"field trip, field research",,1
+10/9/14,1,9,0,J Bellemare,No,BIO 364,"field trip, field work",,1
+9/29/14,8,200,5,Reid & Hannah ,Yes,,,,14
+10/28/14,1,2,0,Jon Caris,No,,UAV research,Thanks,1
+11/7/14,0,24,0,Wanda Feng,Yes,,Stargazing,,2
+11/13/14,1,0,16,Reid,Yes,OC,Building Tour,,6
+11/8/14,5,3,2,Jon Caris,Yes,,Training,,3
+10/8/14,4,32,0,Lynne Yamamoto,Yes,ARS 172,To make site-specific student artwork,"Excellent Experience. Came on two dates, October 8th and 15th, 2014",2
+12/12/14,1,0,11,Amanda Herman,Yes,OC,Course Wrap-up and celebration,Thanks for letting up use the station. We all had a fabulous time. Such a beautiful place! ,1
+12/16/14,0,5,0,Emily Dixon ,Yes,,Finals studying ,Lovely visit! ,2
+10/1/14,0,0,14,"Caryn Brause, UMass Department of Architecture",Yes,OC,Discuss Living Building Challenge,,5
+4/16/14,1,1,15,"Caryn Brause, UMass Department of Architecture",Yes,OC,Discuss Living Building Challenge,,6
+9/27/14,0,3,0,Emmett Wald,Yes,,FSS,,1
+10/4/14,0,4,0,Emmett Wald,Yes,,FSS,,1
+10/18/14,0,6,0,Emmett Wald,Yes,,FSS,,1
+11/1/14,0,3,1,Emmett Wald,Yes,,FSS,,1
+11/8/14,0,11,0,Emmett Wald,Yes,,FSS,,1
+11/15/14,0,7,0,Emmett Wald,Yes,,FSS,,1
+11/8/14,0,2,15,Emmett Wald,Yes,,Dartmouth tour group,,1
+10/25/14,0,10,40,Emmett Wald,Yes,,Family Weekend,"headcount and vehicles are an estimate, I didn't get a clear headcount at any point",10
+1/5/15,1,8,0,Naila Moreira,Yes,IDP,Communal creative writing time,,1
+1/6/15,1,7,0,Naila Moreira,Yes,IDP,Communal creative writing time,,1
+1/7/15,1,7,0,Naila Moreira,Yes,IDP,Communal creative writing time,,1
+1/8/15,1,7,0,Naila Moreira,Yes,IDP,Communal creative writing time,,1
+1/9/15,1,6,0,Naila Moreira,Yes,IDP,Communal creative writing time,,1
+1/14/15,1,9,0,scott johnson,No,IDP,tracking hike ,great tracks!,1
+1/12/15,15,116,0,Reid,Yes,LSS 110,,One vehicle was a bus,24
+1/31/15,2,19,3,Emma Kerr,Yes,,Winter Retreat,"Eco-Reps and Emma, plus Dano and his family","3 (two 11 passenger vans, one small personal vehicle)"
+11/10/14,2,14,0,Dean Flower,Yes,FYS 133,introduce class to what the Field Station is for and how they might use it.,"Reid Bertone-Johnson  was a superb host, speaking about the Station and guiding our brief exploration of the area",2
+2/7/15,0,4,26,Emmett Wald,Yes,,USGBC tour,,15
+2/20/15,1,8,0,Chris Aiken,Yes,DAN,Preparation for performance,,2
+1/23/15,6,0,0,Reid,Yes,,Design Thinking Retreat,,3
+3/7/15,4,18,6,Reid,Yes,,Maple Tapping,,5
+3/25/15,2,20,1,Jen Rioux,Yes,,Ice Hockey Banquet,Had a great time! Thanks for letting us use the space again.,6
+4/2/15,3,0,19,Reid,Yes,OC,Tour,,5
+3/29/15,0,5,1,Shelby Kim,Yes,,"yoga retreat, using the building space","so so so beautiful, perfect space for meditation",2
+4/1/15,1,12,0,Camille Washington-Ottombre,Yes,"ENV 202, 201",Brainstorming exercise,I could turn on the projector. I think that the side panel does not work.,2
+2/25/15,1,20,3,Chris Vriezen,Yes,BIO 205,sampling,,2
+2/26/15,2,19,3,Chris Vriezen,Yes,BIO 205,sampling,,2
+2/5/15,2,23,0,Sarah Moore,Yes,EGR 110,kick off semester-long project involving analysis and design with MacLeish,Reid was with us and is amazing!  Students are learning much more deeply with their MacLeish projects than with previous project for this course.,3
+6/19/15,4,0,0,Penney Hulten,Yes,,Retreat,Thank you for lending us your beautiful space again this year!,4
+4/19/15,0,3,0,Kimberly Kupinski,Yes,,CSO student board bonding/closure,,1
+4/23/15,1,30,0,Katrina O'Brien,No,,Overnight training,"good, cold night at the original campsite",3
+5/11/15,10,2,1,Reid,Yes,,Challenge Course Training,,6
+5/12/15,10,2,1,Reid,Yes,,Challenge Course Training,,6
+5/13/15,10,2,1,Reid,Yes,,Challenge Course Training,,6
+5/19/15,8,0,0,Kevin Rozario,Yes,,AMS Retreat,,3
+4/22/15,2,8,0,Reid,Yes,LSS 240,Tour,,1
+4/17/15,10,15,60,Chris Aiken,Yes,DAN,Performance,,15
+4/9/15,2,0,8,Reid,Yes,,Conference Tour,,2
+5/6/15,0,2,30,Julia,Yes,,Tour for Central Americans,,3
+4/23/15,0,1,15,Shelby,Yes,OC,Tour,,3
+4/18/15,1,11,2,Paul Wetzel,No,,Chestnut planting,,3
+6/29/15,5,60,0,Meg Thatcher,Yes,,Retreat,One Bus,5
+6/30/15,0,0,15,Reid,Yes,,Retreat,,15
+7/1/15,3,2,10,Carol Berner,Yes,,Elementary Science Teacher Workshop,,8
+7/6/15,1,1,13,Laura Krok-Horton,Yes,PCP,Challenge Course,,2
+7/13/15,12,0,0,Jessica,Yes,,Staff Retreat,,4
+7/13/15,1,2,13,Reid,Yes,PCP,Challenge Course,,2
+7/10/15,0,2,12,Laura Krok-Horton,Yes,,Challenge Course,,1
+7/14/15,6,0,0,Reid,Yes,,Retreat,,3
+7/16/15,0,0,7,Margaret Stevens,Yes,,Leadership Retreat for MHC LITS Division,,6
+7/18/15,1,0,14,Paul Wetzel,Yes,,Workshop,,15
+7/18/15,2,40,10,Reid,Yes,,Concert in the building,,6
+7/21/15,5,0,0,Reid,Yes,,Writing Retreat,,2
+7/29/15,2,2,12,Reid,Yes,PCP,Field Trip,,2
+8/3/15,5,0,0,Maggie Lind,Yes,,Retreat,Yay to carpooling!!!,1
+8/3/15,0,0,4,Reid,Yes,,Camping,,1
+8/4/15,0,0,4,Reid,Yes,,Camping,,1
+8/5/15,0,0,4,Reid,Yes,,Camping,,1
+8/6/15,0,0,4,Reid,Yes,,Camping,,1
+8/7/15,0,0,4,Reid,Yes,,Camping,,1
+8/4/15,12,0,0,Mike Howard,Yes,,Staff Retreat,,8
+8/5/15,0,0,5,Reid,No,,Shear Wave Study,,2
+8/7/15,1,2,5,Reid,Yes,,Tour of Building and Vicinity,,1
+8/31/15,3,0,0,Paul Wetzel,Yes,,Tour for the Margarets,,4
+9/18/15,0,2,1,Sol Kim,No,,Camping,,1
+9/5/15,0,15,0,Jessica Innis,Yes,,House Council Retreat,,3
+9/24/15,1,13,0,Chris Conley,No,EGR 390,site recon,none,2
+9/4/15,0,3,0,Sol Kim,No,,Camping,,1
+9/22/15,2,15,0,Marney Pratt,No,BIO 155,Collect data from cover boards in permanent hemlock and birch plots,,2
+9/28/15,2,10,0,Marney Pratt,No,BIO 155,Collect data from cover boards in permanent hemlock and birch plots,,2
+9/23/15,2,5,0,Denise Lello,No,BIO 155,Collect data from cover boards in permanent hemlock and birch plots,,1
+9/30/15,2,7,0,sara dorsey,No,ESS,orienteering,beautiful day!,1
+9/5/15,2,20,0,Paul & Joanne,Yes,,Orientation,,2
+9/6/15,2,20,0,Paul & Joanne,Yes,,Orientation,,2
+10/3/15,0,9,0,Ellen Sulser,Yes,,Field Station Fun Day,"Also encountered 2 Locals using the hiking trail, and a party of 4 lead by a smith alumn",1
+9/23/15,11,70,0,hannah durrant,Yes,,,,7
+8/26/15,3,35,0,hannah Durrant ,Yes,,Hp training,,7
+9/24/15,1,18,0,J. Bellemare (BIO),Yes,BIO 365,Explore field station to discuss student project possibilities,,2 Smith vans
+9/15/15,5,0,0,Maureen Trafford,Yes,,Staff Retreat,Gorgeous space.  Great for getting away from the usual and making time for strategic thinking in a beautiful setting. ,2
+9/26/15,1,10,0,Tamra Bates,Yes,,training and retreat,would have been nice to know that the lock box for the building had changed.  Luckily Scott Johnson was home and I could get in touch with him,3
+10/7/15,12,140,5,CEEDS,Yes,,Mountain Day,,12
+10/13/15,5,0,3,Kim Dionne,Yes,,Writing Retreat,Everything was fantastic. We are all so very grateful. We even posted photos to Twitter & Instagram.,4
+10/21/15,2,24,0,Monakhov Stockton/Yamamoto,No,ARS 172,Site speciic art project,,3
+10/14/15,0,6,1,Ellen Sulser,Yes,,"3- Intern work, 2-hiking, 1-study",The internet is still non functioning at the field station,1
+10/21/15,1,10,0,Frank Grindrod,No,ESS,Practice camping skills and enjoy an overnight,Student field experience Perfect time of year beautiful scenery night sky heard owls and Kayleighs serenading,1
+10/8/15,1,0,3,Paul Wetzel,Yes,,Wright Brothers showed a client the triple paned windows in the BEC,,3
+10/14/15,1,0,16,Paul Wetzel,Yes,,Tour of BEC for international conservation professonals (led by Mark Protti),,2
+10/17/15,2,0,2,Paul Wetzel,No,,"Lisa Thompson, CEO of the American Chestnut Foundation visited the chestnut seed orchard",Lisa came in Brian's renewable energy Tesla,3
+10/17/15,7,4,3,Joanne Benkley,Yes,,CEEDS advisory board meeting,,3
+10/22/15,1,1,1,Paul Wetzel,No,,Moved Full House challenge course element; winterized chestnut orchard,,1
+11/1/15,0,9,0,Dana Hsu,Yes,,Exploration and Bonding,,1
+11/5/15,3,18,1,Naila Moreira & Carol Berner,Yes,FYS,Water ,,2
+11/2/15,1,25,0,Meg Thacher,Yes,AST 103,observing dark sky with telescopes,"one MacLeish intern driver, Anna George.",3
+11/19/15,7,0,7,Alex Wirth-Cauchon,No,,Leadership Retreat,It was lovely.  It allowed us to relax and focus.,5
+10/26/15,1,0,16,Paul Wetzel,Yes,OC,Tour of BEC and Chestnut Orchard,,2
+10/26/15,1,0,14,Paul Wetzel,Yes,,Tour of BEC for Bruner-Cott Architects,,6
+11/21/15,1,16,1,Carol Berner,Yes,,Connecting students to field station through poetry,Margaret Babbott facilitated eco-poetry workshop inspired by Pablo Neruda's Book of Questions,4
+11/6/15,0,10,0,Smith Outdoor Adventure Program,No,,camping,,1
+11/6/15,1,0,13,Mark Protti,No,,challenge course,,2
+11/24/15,2,0,23,Sue Froelich,No,,challenge course,,5
+10/31/15,1,0,15,Shelby Kim,Yes,OC,Dartmouth eco class tour,,3
+11/15/15,0,9,0,Shelby Kim,Yes,,campfire 1,,1
+11/22/15,0,9,0,Shelby Kim,Yes,,Campfire 2,,1
+11/28/15,2,18,0,Shelby Kim,Yes,,poetry workshop!,,4
+11/29/15,0,6,1,Shelby Kim,Yes,,Campfire 3,,1
+11/24/15,1,9,0,Frank Grindrod,No,ESS,orienteering,Students had opportunity to use the newly set up orienttering course,1
+12/8/15,1,9,0,Frank Grindrod,No,ESS,continued use for orienteering ,Students continued there orienteering course,1
+12/11/15,0,3,0,Tziona Breitbart,Yes,,Bonding,none,1
+10/20/15,5,41,0,Paul Matylas/ Emily Endris ,Yes,,Team building / guided meditation / community building ,"It was so helpful to have a space that was remoted in and out of doors, and just down right beautiful.  Thank you. ",1
+12/3/15,1,17,0,John Brady,Yes,FYS 103,See geology.,Great visit. Porcupines greeted us.  We left our jump on the seismograph.,2
+12/22/15,7,0,0,Alexandra Martines,No,,Educational Technology Services Staff Retreat,,6
+1/13/16,1,10,0,scott johnson,No,,hiking/animal tracking,1-day only,1
+2/11/16,1,5,0,Sara Dorsey,No,,Introduction to Winter Camping,,1
+3/20/16,8,,0,Carrie Baker,Yes,,Meeting,Thanks so much!,5-Apr
+4/7/16,1,17,0,Sara Dorsey,No,,training trip,,2
+4/16/16,1,0,15,Paul Wetzel,Yes,,MA/RI Chapter of American Chestnut Foundation,,10
+4/19/16,1,11,0,Carol Berner,Yes,EDC,final class meeting & celebration,Many first time visitors to MFS. They loved having our final class around the fire pit.  Several plan to return.  ,4
+4/14/16,1,20,0,Sara Dorsey,No,,training trip,,3
+4/25/16,1,22,0,Suzan Edwards,Yes,AST 113,Presentations,,2
+4/23/16,1,0,8,Paul Wetzel,No,,Planting chestnuts,,5
+4/24/16,1,12,3,Paul Wetzel,Yes,,Planting chestnuts,,5
+5/4/16,2,0,14,Mark Protti,Yes,,challenge course and group bonding,,
+4/24/16,1,2,10,Paul Wetzel,No,,Planting chestnuts,,7
+5/4/16,1,0,15,Paul Wetzel,Yes,,"ITD building tour, challenge course","Building tour, lecture in building, challenge course, snacks",3
+5/9/16,1,14,4,Paul Wetzel,No,,Planting chestnuts,,5
+5/12/16,16,0,0,Christine White-Ziegler,Yes,,Department retreat,,6
+9/10/16,0,22,0,Amanda Lavond,Yes,,Retreat,None,3
+1/28/17,3,21,0,Katie Moore,Yes,,Team Retreat,"It was beautiful, the team loved it!",3
+6/9/17,4,0,5,Alex Seggerman,Yes,,writing group,,7
+6/12/17,1,0,6,Alex Seggerman,Yes,,writing group,,5
+7/7/17,5,0,0,Kim Alston,Yes,,Staff Retreat,,3
+9/20/17,5,0,5,Beth Hooker,Yes,,"Deerfield Academy--Center for Service and Global Citizenship, staff retreat",Wonderful space--thank you very much!,3
