@@ -58,7 +58,8 @@ mac_dept_freq
 Text Analysis
 
 ```{r}
-library()
+library(tm)
+
 mac_purpose <- mac_data %>%
   mutate(purpose=tolower(purpose)) %>%
   filter(!is.na(purpose))
