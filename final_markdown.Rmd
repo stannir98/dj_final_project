@@ -33,16 +33,26 @@ mac_summary <- mac_data %>%
             total_class_unique=n_distinct(class))
 ```
 
-Classes By Year:
+Departments:
 
 ```{r}
-mac_OC <- mac_data %>%
-  filter(class=="OC") ##%>%
-    ##summarise(total_rows=n()) this summarise is not working for some reason but the answer is 17
-
+##Arranges it by class
 mac_dept <- mac_data %>%
   filter(!is.na(class)) %>%
-  group_by(class)
+  arrange(class)
+
+##takes the first 3 chars to get the dept codes
+mac_dept_unique <- mac_data %>%
+  mutate(dept_codes=substring(mac_data$class, 0, 3)) %>%
+  filter(!is.na(dept_codes))
+
+##computes the number of unique depts
+mac_total_dept <- mac_dept_unique %>%
+ summarise(total_unique_dept_codes=n_distinct(dept_codes))
+
+##calculates the counts of each dept 
+mac_dept_freq <- count(mac_dept_unique$dept_codes)
+  
 ```
 
 
