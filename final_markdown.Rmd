@@ -20,6 +20,9 @@ mac_data <- mac_data %>%
 mac_data <- mac_data %>%
   mutate(vehicles = parse_number(vehicles)) %>%
   mutate(vehicles = parse_integer(vehicles))
+
+mac_data <- mac_data %>%
+  mutate(class=parse_character(class))
 ```
 
 Adding sums:
@@ -29,7 +32,20 @@ mac_summary <- mac_data %>%
             total_students = sum(num_stude, na.rm = TRUE),
             total_noncomm = sum(non_scomm),
             total_cars = sum(vehicles, na.rm = TRUE),
-            total_class = sum(!is.na(class)))
+            total_class = sum(!is.na(class)),
+            total_class_unique=n_distinct(class))
+```
+
+Classes By Year:
+
+```{r}
+mac_OC <- mac_data %>%
+  filter(class=="OC") ##%>%
+    ##summarise(total_rows=n()) this summarise is not working for some reason but the answer is 17
+
+mac_dept <- mac_data %>%
+  filter(!is.na(class)) %>%
+  group_by(class)
 ```
 
 
