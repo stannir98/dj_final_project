@@ -52,8 +52,8 @@ mac_total_dept <- mac_dept_unique %>%
 
 ##calculates the counts of each dept 
 mac_dept_freq <- count(mac_dept_unique$dept_codes)
-  
+mac_dept_freq
 ```
 
-
+plz work 
 
