@@ -30,7 +30,8 @@ mac_summary <- mac_data %>%
             total_noncomm = sum(non_scomm),
             total_cars = sum(vehicles, na.rm = TRUE),
             total_class = sum(!is.na(class)),
-            total_class_unique=n_distinct(class))
+            total_class_unique = n_distinct(class),
+            total_visitors = (total_students + total_noncomm + total_fac))
 ```
 
 Departments:
@@ -52,19 +53,14 @@ mac_total_dept <- mac_dept_unique %>%
 
 ##calculates the counts of each dept 
 mac_dept_freq <- count(mac_dept_unique$dept_codes)
-mac_dept_freq
 ```
 
 Text Analysis
 
 ```{r}
-library(tm)
-
 mac_purpose <- mac_data %>%
   mutate(purpose=tolower(purpose)) %>%
   filter(!is.na(purpose))
-
-purposes <- Corpus(Vector(mac_data$purpose))
 ```
 plz work 
 
