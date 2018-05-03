@@ -20,9 +20,6 @@ mac_data <- mac_data %>%
 mac_data <- mac_data %>%
   mutate(vehicles = parse_number(vehicles)) %>%
   mutate(vehicles = parse_integer(vehicles))
-
-mac_data <- mac_data %>%
-  mutate(class=parse_character(class))
 ```
 
 Adding sums:
