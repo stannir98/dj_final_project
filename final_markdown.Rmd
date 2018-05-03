@@ -1,0 +1,35 @@
+---
+title: "final_markdown"
+author: "Sophia Tannir & Arielle Dror"
+date: "May 2, 2018"
+output: html_document
+---
+Libraries and data:
+```{r}
+library(tidyverse)
+library(lubridate)
+
+##loading data
+mac_data <- read_csv("Downloads/dj_macleish_file.csv")
+
+##converting character to date
+mac_data <- mac_data %>%
+  mutate(visit_date = mdy(visit_date))
+
+#converting vehicle characters to integers
+mac_data <- mac_data %>%
+  mutate(vehicles = parse_number(vehicles)) %>%
+  mutate(vehicles = parse_integer(vehicles))
+```
+
+Adding sums:
+```{r}
+mac_summary <- mac_data %>%
+  summarise(total_fac = sum(num_fac),
+            total_students = sum(num_stude, na.rm = TRUE),
+            total_noncomm = sum(non_scomm),
+            total_cars = sum(vehicles, na.rm = TRUE),
+            total_class = sum(!is.na(class)))
+```
+
+
