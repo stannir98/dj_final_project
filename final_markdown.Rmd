@@ -52,14 +52,16 @@ mac_total_dept <- mac_dept_unique %>%
  summarise(total_unique_dept_codes=n_distinct(dept_codes))
 
 ##calculates the counts of each dept 
-mac_dept_freq <- count(mac_dept_unique$dept_codes)
+mac_dept_freq <- mac_dept_unique %>%
+  count(dept_codes)
+  
 ```
 
 Text Analysis
 
 ```{r}
 mac_purpose <- mac_data %>%
-  mutate(purpose=tolower(purpose)) %>%
+  mutate(purpose = tolower(purpose)) %>%
   filter(!is.na(purpose))
 ```
 plz work 
