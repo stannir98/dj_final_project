@@ -54,7 +54,6 @@ mac_total_dept <- mac_dept_unique %>%
 ##calculates the counts of each dept 
 mac_dept_freq <- mac_dept_unique %>%
   count(dept_codes)
-  
 ```
 
 Text Analysis
