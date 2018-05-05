@@ -86,7 +86,9 @@ purpose_counts <- mac_purpose %>%
             orientation = length(grep("orientation", mac_data[["purpose"]],
                                       ignore.case = TRUE)),
             training = length(grep("training", mac_data[["purpose"]],
-                                   ignore.case = TRUE)))
+                                   ignore.case = TRUE)),
+            project = length(grep("project", mac_data[["purpose"]], 
+                                  ignore.case = TRUE)))
 
 ```
 
