@@ -63,6 +63,29 @@ Text Analysis
 mac_purpose <- mac_data %>%
   mutate(purpose = tolower(purpose)) %>%
   filter(!is.na(purpose))
+
+purpose_counts <- mac_purpose %>%
+  summarise(retreats = length(grep("retreat", mac_data[["purpose"]], 
+                                   ignore.case = TRUE)),
+            research = length(grep("research", mac_data[["purpose"]], 
+                                   ignore.case = TRUE)),
+            tour = length(grep("tour", mac_data[["purpose"]], 
+                               ignore.case = TRUE)),
+            survey = length(grep("survey", mac_data[["purpose"]], 
+                                 ignore.case = TRUE)) + 
+              length(grep("surveys", mac_data[["purpose"]], 
+                          ignore.case = TRUE)),
+            chestnut = length(grep("chestnut", mac_data[["purpose"]],
+                                   ignore.case = TRUE)) +
+              length(grep("chestnuts", mac_data[["purpose"]], 
+                          ignore.case = TRUE)),
+            fff = length(grep("field station friday", mac_data[["purpose"]],
+                              ignore.case = TRUE)),
+            class = length(grep("class", mac_data[["purpose"]], 
+                                ignore.case = TRUE)),
+            orientation = length(grep("orientation", mac_data[["purpose"]],
+                                      ignore.case = TRUE)))
+
 ```
-plz work 
+
 
