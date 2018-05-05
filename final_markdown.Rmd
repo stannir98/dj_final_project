@@ -79,12 +79,14 @@ purpose_counts <- mac_purpose %>%
                                    ignore.case = TRUE)) +
               length(grep("chestnuts", mac_data[["purpose"]], 
                           ignore.case = TRUE)),
-            fff = length(grep("field station friday", mac_data[["purpose"]],
+            fsf = length(grep("field station friday", mac_data[["purpose"]],
                               ignore.case = TRUE)),
             class = length(grep("class", mac_data[["purpose"]], 
                                 ignore.case = TRUE)),
             orientation = length(grep("orientation", mac_data[["purpose"]],
-                                      ignore.case = TRUE)))
+                                      ignore.case = TRUE)),
+            training = length(grep("training", mac_data[["purpose"]],
+                                   ignore.case = TRUE)))
 
 ```
 
