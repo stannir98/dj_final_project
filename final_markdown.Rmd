@@ -5,7 +5,7 @@ date: "May 2, 2018"
 output: html_document
 ---
 Libraries and data:
-```{r}
+```{r, message=FALSE}
 library(tidyverse)
 library(lubridate)
 library(reshape2)
@@ -102,9 +102,11 @@ purpose_counts <- as.data.frame(purpose_counts) %>%
 ```
 
 Graphics:
-```{r}
+```{r, warning=FALSE}
 ggplot(purpose_counts, aes(x = purpose, y = counts, fill = purpose)) +
   geom_histogram(stat = "identity") +
   theme_economist()
 ```
+
+<iframe src="https://public.tableau.com/views/freq_deptsample/Sheet1?:embed=y&:display_count=yes&publish=yes" width="800" height="600"></iframe>
 
