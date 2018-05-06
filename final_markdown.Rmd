@@ -104,7 +104,7 @@ purpose_counts <- as.data.frame(purpose_counts) %>%
 Graphics:
 ```{r, warning=FALSE}
 ggplot(purpose_counts, aes(x = purpose, y = counts, fill = purpose)) +
-  geom_histogram(stat = "identity") +
+  geom_bar(stat = "identity") +
   theme_economist()
 ```
 
