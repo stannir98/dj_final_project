@@ -8,6 +8,8 @@ Libraries and data:
 ```{r}
 library(tidyverse)
 library(lubridate)
+library(reshape2)
+library(ggthemes)
 
 ##loading data
 mac_data <- read_csv("dj_macleish_file.csv")
@@ -89,7 +91,20 @@ purpose_counts <- mac_purpose %>%
                                    ignore.case = TRUE)),
             project = length(grep("project", mac_data[["purpose"]], 
                                   ignore.case = TRUE)))
+## transposing data frame into tidy form
+purpose_counts <- t(purpose_counts)
+purposes <- c("retreats", "research", "tour", "survey", "chestnut", "fsf",
+              "class", "orientation", "training", "project")
+purpose_counts <- as.data.frame(purpose_counts) %>%
+  rename(counts = V1) %>%
+  mutate(purpose = purposes)
 
 ```
 
+Graphics:
+```{r}
+ggplot(purpose_counts, aes(x = purpose, y = counts, fill = purpose)) +
+  geom_histogram(stat = "identity") +
+  theme_economist()
+```
 
