@@ -2,10 +2,12 @@
 title: "final_markdown"
 author: "Sophia Tannir & Arielle Dror"
 date: "May 2, 2018"
-output: html_document
+output:
+  html_document:
+    code_folding: hide
 ---
 Libraries and data:
-```{r, message=FALSE}
+```{r, message = FALSE}
 library(tidyverse)
 library(lubridate)
 library(reshape2)
@@ -26,7 +28,8 @@ mac_data <- mac_data %>%
 ```
 
 Adding sums:
-```{r}
+```{r, message = FALSE}
+## summary statistics
 mac_summary <- mac_data %>%
   summarise(total_fac = sum(num_fac),
             total_students = sum(num_stude, na.rm = TRUE),
@@ -37,9 +40,7 @@ mac_summary <- mac_data %>%
             total_visitors = (total_students + total_noncomm + total_fac))
 ```
 
-Departments:
-
-```{r}
+```{r, message = FALSE}
 ##Arranges it by class
 mac_dept <- mac_data %>%
   filter(!is.na(class)) %>%
@@ -60,9 +61,8 @@ mac_dept_freq <- mac_dept_unique %>%
   arrange(desc(n))
 ```
 
-Text Analysis
-
-```{r}
+```{r, message = FALSE}
+## Text analysis
 mac_purpose <- mac_data %>%
   mutate(purpose = tolower(purpose)) %>%
   filter(!is.na(purpose))
@@ -103,10 +103,16 @@ purpose_counts <- as.data.frame(purpose_counts) %>%
 ```
 
 Graphics:
-```{r, warning=FALSE}
+```{r, message = FALSE}
+## plotting of purpose
 ggplot(purpose_counts, aes(x = purpose, y = counts, fill = purpose)) +
   geom_bar(stat = "identity") +
-  theme_economist()
+  theme_economist() +
+  guides(fill = FALSE) +
+  labs(title = "MacLeish Usage", y = "Visits", x = "Purpose") +
+  scale_x_discrete(labels = c("Chestnut", "Class", "FSF","Orientation", 
+                              "Projects", "Research","Retreats", 
+                              "Surveying", "Tours", "Training"))
 ```
 
 <iframe src="https://public.tableau.com/views/freq_deptsample/Sheet1?:embed=y&:display_count=yes&publish=yes" width="800" height="600"></iframe>
