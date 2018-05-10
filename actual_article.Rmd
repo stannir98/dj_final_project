@@ -6,7 +6,6 @@ author:
 output:
   html_document:
     theme: spacelab
-    code_folding: hide
 ---
 ```{r, message = FALSE, echo = FALSE}
 library(tidyverse)
@@ -101,21 +100,24 @@ purpose_counts <- as.data.frame(purpose_counts) %>%
   mutate(purpose = purposes)
 
 ```
+<br>
 
-
+###An Academic Playground
 
 It’s a Wednesday at the Ada and Archibald MacLeish Field Station in Whately. A class is collecting samples for a research project, a writer’s retreat in one of the world’s only living buildings, and a visiting elementary school group is working together on the Challenge Course. Such is the life for Smith College’s 260 acre satellite field station about 20 minutes up the road. 
 
 Over the past fifty years, this plot of land has evolved into an interdisciplinary playground that is utilized not only by the Smith community, but the academic community at large. 
 
-What’s in a Name?:
+###What’s in a Name?
+
 Prior to its current iteration, the land that is now known as MacLeish was known solely for its observatory. The observatory was moved from its former location where Wright Hall now stands and its new location was built to protect it from light pollution. However, MacLeish’s observatory eventually fell out of use by Smith’s astronomy department. Fast-forward to the year 2008, and Steve Tilley and Scott Johnson come to the table ready to revamp. Hailing from Smith’s biology department and the Outdoors Program, respectively, they had big dreams and planned to do more with the property.
 
 Faculty from the biology, geology, and engineering departments all rallied around the recently-unused property. Thus, the Center for the Environment, Ecological Design & Sustainability, or CEEDS, finally came to fruition, with the field station as its focal point.
 
 Really setting the project in motion, former college president Jill Ker Conway came forward with a substantial donation, and with this donation came naming rights. Conway named it in honor of her friends, Ada and Archibald MacLeish, who had once invited her to what was assumed to be a casual dinner party culminating in the realization that she was actually being interviewed as the prospective president of Smith College.
 
-A Fresh Start:
+###A Fresh Start
+
 The freshly named Ada and Archibald MacLeish Field Station entered its newest era in 2008. True to Smith’s liberal arts and experiential education models, students played a crucial role in its development, designing “recreational trails, interpretive signage, a solar-powered electric fence, and a pavilion.” MacLeish is now used by students and faculty alike. 
 
 A digital sign-in sheet tells a beautiful story of MacLeish’s impact. While it is not a complete list of all visits (it is an optional part of the sign-up process), it captures the versatility and innovation that MacLeish fosters. In total, 5,274 individuals recorded a visit to MacLeish from 2012-2017. Almost 60 percent of those visitors were Smith students, with non-Smith community members and Smith faculty filling in the rest of the visits. 
@@ -141,19 +143,22 @@ The online guestbook also denotes 103 separate instances for the use of MacLeish
 
 Bertone-Johnson remarked that had the guestbook been active earlier than 2012, a couple of fine arts departments would be ranked considerably higher. He mentioned the dance department in particular, saying, “We’ve wanted to embrace the arts and humanities. Candice Salyers has done a lot of work there [...] We want more of that; we want to create something that invites people to do that sort of work.” 
 
-The Outsiders: 
+###The Outsiders: 
+
 MacLeish’s impact is not limited to just Smith students and faculty members. The guestbook recorded 1,324 visitors from outside of the Smith community. As previously mentioned, the reasons for their visits vary. Sometimes it’s for classes from schools like UMass or Dartmouth visiting and touring the facilities. Other times, middle school students visit the site to try their hand at the challenge course.
 
 CEEDS has never charged these groups--or any group--to use the field station facilities. “We’ve tried hard to not need to do that,” said Bertone-Johnson. “So far we haven’t had a fee structure for anything. We’ve thought about if a few times, but we’re also trying to avoid falling into the wedding business. That would be a really easy trap to fall into for sure.” CEEDS’s refusal to create a fee structure establishes MacLeish as an open and inviting educational and recreational spot for all. The only requirement is an appreciation of all that MacLeish has to offer.
 
-Making an Impact, One Generation at a Time:
+###Making an Impact, One Generation at a Time
+
 One such instance of an outside group taking advantage of the field station is the American Chestnut Foundation. With the help of MacLeish, they are on a rescue mission. With 3000 chestnut trees planted within a single acre, the hope is to breed a blight resistant American chestnut tree by crossing American chestnuts with Chinese chestnut trees. The current plot is full of fifth generation chestnut crosses, and the seeds they produce will be 96% American chestnut and 6% Chinese chestnut. Each generation of tree is challenged with the deadly chestnut blight, and those who survive go on to produce the next generation.
 
 It may sound bleak, but of the 3000 chestnuts currently growing at MacLeish, only 20 to 30 are expected to survive the inoculation of the blight. However, these survivors hold the key to a healthy generation of American chestnuts. This project is currently completely under the American Chestnut Foundation’s guidance, but after 25 years, the plot will switch hands and become property of Smith College itself.
 
-Field Station of the Future?:
+###Field Station of the Future
+
 As MacLeish celebrates its tenth season, it continues to evolve into a space that can be used for all community members. Bertone-Johnson is particularly excited about the Arts Afield initiative being led by Joanne Benkley of CEEDS and Michele Wicks of psychology. “It’s an attempt to formalize the use of the field station by the humanities, so the arts and humanities,” he said, “the scientists kind of know how to use a field station, it’s obvious in biology research and geology research and engineering, that sort of thing. From the beginning we were founded as a liberal arts field station instead of as a biology research station.” To do this, CEEDS has designated ten research plots to be used as reflection spots where artists, writers, and poets can come to those spots and create art. The work will eventually be published online as a story map that shows MacLeish’s development over time. 
 
 As for other initiatives, the field station still remains full of untapped potential. This potential waits at the Smith community's fingertips; it relies on their interests, both academic and recreational, to decide its future. 
 
-
+(Home/dj_final_project/Sheet1.png)
