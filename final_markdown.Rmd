@@ -116,5 +116,3 @@ ggplot(purpose_counts, aes(x = purpose, y = counts, fill = purpose)) +
                               "Surveying", "Tours", "Training"))
 ```
 
-<iframe src="https://public.tableau.com/views/freq_deptsample/Sheet1?:embed=y&:display_count=yes&publish=yes" width="800" height="600"></iframe>
-
