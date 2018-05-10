@@ -10,6 +10,7 @@ library(tidyverse)
 library(lubridate)
 library(reshape2)
 library(ggthemes)
+library(knitr)
 
 ##loading data
 mac_data <- read_csv("dj_macleish_file.csv")
