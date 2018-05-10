@@ -1,14 +1,16 @@
 ---
-title: "Out in the Field - CODE ONLY"
+title: "Out in the Field"
 author:
 - What's Happening at MacLeish\newline
 - Arielle Dror & Sophia Tannir
 output:
   html_document:
     theme: spacelab
+    code_folding: hide
 ---
+
 Libraries and data:
-```{r, message = FALSE}
+```{r, message = FALSE, echo = FALSE}
 library(tidyverse)
 library(lubridate)
 library(reshape2)
@@ -28,7 +30,7 @@ mac_data <- mac_data %>%
 ```
 
 Adding sums:
-```{r, message = FALSE}
+```{r, message = FALSE, echo = FALSE}
 ## summary statistics
 mac_summary <- mac_data %>%
   summarise(total_fac = sum(num_fac),
@@ -40,7 +42,7 @@ mac_summary <- mac_data %>%
             total_visitors = (total_students + total_noncomm + total_fac))
 ```
 
-```{r, message = FALSE}
+```{r, message = FALSE, echo = FALSE}
 ##Arranges it by class
 mac_dept <- mac_data %>%
   filter(!is.na(class)) %>%
@@ -61,7 +63,7 @@ mac_dept_freq <- mac_dept_unique %>%
   arrange(desc(n))
 ```
 
-```{r, message = FALSE}
+```{r, message = FALSE, echo = FALSE}
 ## Text analysis
 mac_purpose <- mac_data %>%
   mutate(purpose = tolower(purpose)) %>%
@@ -103,7 +105,7 @@ purpose_counts <- as.data.frame(purpose_counts) %>%
 ```
 
 Graphics:
-```{r, message = FALSE}
+```{r, message = FALSE, echo = FALSE}
 ## plotting of purpose
 ggplot(purpose_counts, aes(x = purpose, y = counts, fill = purpose)) +
   geom_bar(stat = "identity") +
@@ -116,4 +118,5 @@ ggplot(purpose_counts, aes(x = purpose, y = counts, fill = purpose)) +
 ```
 
 <iframe src="https://public.tableau.com/views/freq_deptsample/Sheet1?:embed=y&:display_count=yes&publish=yes" width="800" height="600"></iframe>
+
 
