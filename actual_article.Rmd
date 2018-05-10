@@ -104,7 +104,7 @@ purpose_counts <- as.data.frame(purpose_counts) %>%
 
 ###An Academic Playground
 
-It’s a Wednesday at the Ada and Archibald MacLeish Field Station in Whately. A class is collecting samples for a research project, a writer’s retreat in one of the world’s only living buildings, and a visiting elementary school group is working together on the Challenge Course. Such is the life for Smith College’s 260 acre satellite field station about 20 minutes up the road. 
+It’s a Wednesday at the Ada and Archibald MacLeish Field Station in Whately. A class is collecting samples for a research project, writers are holding a retreat in one of the world’s only living buildings, and a visiting elementary school group is working together on the Challenge Course. Such is the life for Smith College’s 260 acre satellite field station about 20 minutes up the road. 
 
 Over the past fifty years, this plot of land has evolved into an interdisciplinary playground that is utilized not only by the Smith community, but the academic community at large. 
 
