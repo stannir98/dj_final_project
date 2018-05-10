@@ -118,7 +118,7 @@ Really setting the project in motion, former college president Jill Ker Conway c
 
 ###A Fresh Start
 
-The freshly named Ada and Archibald MacLeish Field Station entered its newest era in 2008. True to Smith’s liberal arts and experiential education models, students played a crucial role in its development, designing “recreational trails, interpretive signage, a solar-powered electric fence, and a pavilion.” MacLeish is now used by students and faculty alike. 
+The freshly named Ada and Archibald MacLeish Field Station entered its newest era in 2008. True to Smith’s liberal arts and experiential education models, students played a crucial role in its development, designing "[recreational trails, interpretive signage, a solar-powered electric fence, and a pavilion](https://www.smith.edu/ceeds/macleish.php)." MacLeish is now used by students and faculty alike. 
 
 A digital sign-in sheet tells a beautiful story of MacLeish’s impact. While it is not a complete list of all visits (it is an optional part of the sign-up process), it captures the versatility and innovation that MacLeish fosters. In total, 5,274 individuals recorded a visit to MacLeish from 2012-2017. Almost 60 percent of those visitors were Smith students, with non-Smith community members and Smith faculty filling in the rest of the visits. 
 
@@ -126,8 +126,8 @@ The uses span a wide range. Many visitors cited “retreats” as their main pur
 
 In addition to the typical uses such research or classes, MacLeish also receives a lot of visits from off campus groups taking tours of the property and exploring its facilities. These visitors get a great picture of the ins-and-outs of MacLeish, touring the one-of-a-kind Bechtel Environmental Classroom and other unique aspects of the space. 
 
-MacLeish is also used for recreational purposes. Each Friday, a group of vans heads over from Smith for Field Station Fridays, wherein students can experience the hiking trails, help tap the maple trees, or just hang out. The Outdoors Program also makes use of the facility, whether that be for first-year orientation or camping trips at the numerous camp sites. 
-```{r, message = FALSE, echo = FALSE}
+MacLeish is also used for recreational purposes. Each Friday, a group of vans heads over from Smith for Field Station Fridays (FSF), wherein students can experience the hiking trails, help tap the maple trees, or just hang out. The Outdoors Program also makes use of the facility, whether that be for first-year orientation or camping trips at the numerous camp sites. 
+```{r, message = FALSE, echo = FALSE, fig.align = 'center'}
 ## plotting of purpose
 ggplot(purpose_counts, aes(x = purpose, y = counts, fill = purpose)) +
   geom_bar(stat = "identity") +
@@ -145,7 +145,7 @@ Bertone-Johnson remarked that had the guestbook been active earlier than 2012, a
 
 ![](Sheet1.png)
 
-###The Outsiders: 
+###Field Trips: 
 
 MacLeish’s impact is not limited to just Smith students and faculty members. The guestbook recorded 1,324 visitors from outside of the Smith community. As previously mentioned, the reasons for their visits vary. Sometimes it’s for classes from schools like UMass or Dartmouth visiting and touring the facilities. Other times, middle school students visit the site to try their hand at the challenge course.
 
@@ -162,5 +162,10 @@ It may sound bleak, but of the 3000 chestnuts currently growing at MacLeish, onl
 As MacLeish celebrates its tenth season, it continues to evolve into a space that can be used for all community members. Bertone-Johnson is particularly excited about the Arts Afield initiative being led by Joanne Benkley of CEEDS and Michele Wicks of psychology. “It’s an attempt to formalize the use of the field station by the humanities, so the arts and humanities,” he said, “the scientists kind of know how to use a field station, it’s obvious in biology research and geology research and engineering, that sort of thing. From the beginning we were founded as a liberal arts field station instead of as a biology research station.” To do this, CEEDS has designated ten research plots to be used as reflection spots where artists, writers, and poets can come to those spots and create art. The work will eventually be published online as a story map that shows MacLeish’s development over time. 
 
 As for other initiatives, the field station still remains full of untapped potential. This potential waits at the Smith community's fingertips; it relies on their interests, both academic and recreational, to decide its future. 
+<br>
 
+___
 
+We would like to thank Reid Bertone-Johnson, Field Station Manager, for the guestbook data as well as his time. 
+
+[Our Github Repository](https://github.com/stannir98/dj_final_project.git)
